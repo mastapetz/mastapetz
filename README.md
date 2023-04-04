@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-<figure><embed src="https://wakatime.com/share/@f78dd70d-7695-497c-8efc-56142091062b/6948bd71-3493-474f-acc6-be17f0c54f05.svg"></embed></figure>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mastapetz)](https://github.com/anuraghazra/github-readme-stats)
