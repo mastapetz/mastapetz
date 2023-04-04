@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f78dd70d-7695-497c-8efc-56142091062b/5c64b541-4bb7-4157-886d-45e968c152a5.png" /></a>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastapetz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastapetz&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mastapetz)](https://github.com/anuraghazra/github-readme-stats)
