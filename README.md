@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Peter, learned fullstack developer and currently learning C#
+
+Some things to know about me:
+
+- 🔭 I’m currently working on ideas for future programming Projects
+- 👯 I’m actively looking for a new job in App-Development
+- 🌱 I’m currently also learning animation tools, where C# is used for fine tuning and toggles
+
+
 <!--
 **mastapetz/mastapetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f78dd70d-7695-497c-8efc-56142091062b/5c64b541-4bb7-4157-886d-45e968c152a5.png" /></a>
+
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastapetz&hide=python&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mastapetz&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mastapetz&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
