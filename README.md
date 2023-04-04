@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f78dd70d-7695-497c-8efc-56142091062b/5c64b541-4bb7-4157-886d-45e968c152a5.png" /></a>
+-->
+
+
+
+<figure><embed src="https://wakatime.com/share/@f78dd70d-7695-497c-8efc-56142091062b/6948bd71-3493-474f-acc6-be17f0c54f05.svg"></embed></figure>
